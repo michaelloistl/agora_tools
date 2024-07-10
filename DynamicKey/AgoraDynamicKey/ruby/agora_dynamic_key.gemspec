@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.email       = 'sales@agora.io'
   s.files       = [
     "lib/dynamic_key.rb",
+    "lib/dynamic_key2.rb",
     "lib/**/*.rb",
   ]
   s.homepage    = 'https://github.com/AgoraIO/Tools/tree/master/DynamicKey/AgoraDynamicKey/ruby/sample'
